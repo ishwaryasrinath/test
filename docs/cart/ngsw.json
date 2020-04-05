@@ -1,0 +1,95 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.d3b51d311793d0c96f8d.js",
+        "/polyfills.e376cc4a770bfa13f600.js",
+        "/runtime.06daa30a2963fa413676.js",
+        "/styles.cfa9dfcb804f00c309fe.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/images/atta.jpg",
+        "/assets/images/chocoflakes.png",
+        "/assets/images/coffee.jpg",
+        "/assets/images/dosa.jpg",
+        "/assets/images/ghee.jpg",
+        "/assets/images/images.jpg",
+        "/assets/images/ketchup.jpg",
+        "/assets/images/milkpowder.jpg",
+        "/assets/images/nescafe.jpg",
+        "/assets/images/nescafecoffee.jpg",
+        "/assets/images/noodles.png",
+        "/assets/images/oil.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/images/atta.jpg": "57c58130a9c1bffcb030c67de34c003da609b44c",
+    "/assets/images/chocoflakes.png": "e934cd52a4328aa36ebf19af0e3b3834aff907c5",
+    "/assets/images/coffee.jpg": "dd4734f0f05e114fa95ab7166b8956635019d98e",
+    "/assets/images/dosa.jpg": "7c311eff4ce5d7d9c0ff1cb1720a6f3ec50ebb02",
+    "/assets/images/ghee.jpg": "45e7e2e08aca41b3392067dbe7695c90518413b4",
+    "/assets/images/images.jpg": "21f03c583c9ebe9ea7ea7d4ccf98a401f3a67936",
+    "/assets/images/ketchup.jpg": "422fe6ac6855480e2054b1a7178d24da468523f2",
+    "/assets/images/milkpowder.jpg": "f9207bd4f7412b71b4e5c514d34ec7a1c5105e3f",
+    "/assets/images/nescafe.jpg": "08518cdbdca837478a1377665235f72db3dbbe69",
+    "/assets/images/nescafecoffee.jpg": "167b6c5aed7e5a9f03a8ee1aa914c18b8e115504",
+    "/assets/images/noodles.png": "f695a13d0cbe0715a6b09762679b67a145bff415",
+    "/assets/images/oil.jpg": "2d3a36fab62061297268d5e04e60a8527eecce3a",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "877700f82a557020e11c15fe8025783645ec5985",
+    "/main.d3b51d311793d0c96f8d.js": "5da06620d51461570b6eaba14b1821bbcce87329",
+    "/polyfills.e376cc4a770bfa13f600.js": "e986a8b31f4b9d0472e01ac3b1702e42c53dc377",
+    "/runtime.06daa30a2963fa413676.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/styles.cfa9dfcb804f00c309fe.css": "a2b1bd30c4f573d51117b6430cf129f33b798f3c"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
