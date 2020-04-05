@@ -9,7 +9,7 @@
       "urls": [
         "https://ishwaryasrinath.github.io/test/favicon.ico",
         "https://ishwaryasrinath.github.io/test/index.html",
-        "https://ishwaryasrinath.github.io/test/main.d3b51d311793d0c96f8d.js",
+        "https://ishwaryasrinath.github.io/test/main.87784592fd77867aabea.js",
         "https://ishwaryasrinath.github.io/test/polyfills.e376cc4a770bfa13f600.js",
         "https://ishwaryasrinath.github.io/test/runtime.06daa30a2963fa413676.js",
         "https://ishwaryasrinath.github.io/test/styles.cfa9dfcb804f00c309fe.css"
@@ -40,7 +40,8 @@
         "https://ishwaryasrinath.github.io/test/assets/images/nescafe.jpg",
         "https://ishwaryasrinath.github.io/test/assets/images/nescafecoffee.jpg",
         "https://ishwaryasrinath.github.io/test/assets/images/noodles.png",
-        "https://ishwaryasrinath.github.io/test/assets/images/oil.jpg"
+        "https://ishwaryasrinath.github.io/test/assets/images/oil.jpg",
+        "https://ishwaryasrinath.github.io/test/assets/product.json"
       ],
       "patterns": []
     }
@@ -67,9 +68,10 @@
     "https://ishwaryasrinath.github.io/test/assets/images/nescafecoffee.jpg": "167b6c5aed7e5a9f03a8ee1aa914c18b8e115504",
     "https://ishwaryasrinath.github.io/test/assets/images/noodles.png": "f695a13d0cbe0715a6b09762679b67a145bff415",
     "https://ishwaryasrinath.github.io/test/assets/images/oil.jpg": "2d3a36fab62061297268d5e04e60a8527eecce3a",
+    "https://ishwaryasrinath.github.io/test/assets/product.json": "cbc98c9aaa787110b72c655feaacb2bf10828b14",
     "https://ishwaryasrinath.github.io/test/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://ishwaryasrinath.github.io/test/index.html": "76c9fc27e0202ecefaedbd7aff5f4cdad68c4fa4",
-    "https://ishwaryasrinath.github.io/test/main.d3b51d311793d0c96f8d.js": "5da06620d51461570b6eaba14b1821bbcce87329",
+    "https://ishwaryasrinath.github.io/test/index.html": "0e8c0e78d54546cbc13bf6c25134ebe61980a67b",
+    "https://ishwaryasrinath.github.io/test/main.87784592fd77867aabea.js": "abd1a9b07c5d524d154d73a1932a42bcceff2b0f",
     "https://ishwaryasrinath.github.io/test/polyfills.e376cc4a770bfa13f600.js": "e986a8b31f4b9d0472e01ac3b1702e42c53dc377",
     "https://ishwaryasrinath.github.io/test/runtime.06daa30a2963fa413676.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "https://ishwaryasrinath.github.io/test/styles.cfa9dfcb804f00c309fe.css": "a2b1bd30c4f573d51117b6430cf129f33b798f3c"
