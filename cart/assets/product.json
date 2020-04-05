@@ -5,7 +5,7 @@
    "quantity" : "1kg",
    "mrp": "300",
    "discount_mrp": "270",
-   "image": "src/assets/images/chocoflakes.png",
+   "image": "./assets/images/chocoflakes.png",
    "offer_text" : "10% Off",
    "count" : 0
   },
@@ -16,7 +16,7 @@
    "quantity" : "50g",
    "mrp": "50",
    "discount_mrp": "47",
-   "image": "src/assets/images/noodles.png",
+   "image": "./assets/images/noodles.png",
    "offer_text" : "5% Off",
    "count" : 0
   },
@@ -27,7 +27,7 @@
     "quantity" : "1L",
    "mrp": "200",
    "discount_mrp": "170",
-   "image": "src/assets/images/dosa.jpg",
+   "image": "./assets/images/dosa.jpg",
    "offer_text" : "15% Off",
    "count" : 0
   },
@@ -38,7 +38,7 @@
     "quantity" : "500g",
    "mrp": "100",
    "discount_mrp": "88",
-   "image": "src/assets/images/atta.jpg",
+   "image": "./assets/images/atta.jpg",
    "offer_text" : "12% Off",
    "count" : 0
   },
@@ -49,7 +49,7 @@
     "quantity" : "500g",
    "mrp": "500",
    "discount_mrp": "450",
-   "image": "src/assets/images/ghee.jpg",
+   "image": "./assets/images/ghee.jpg",
    "offer_text" : "10% Off",
    "count" : 0
   },
@@ -60,7 +60,7 @@
     "quantity" : "1kg",
    "mrp": "300",
    "discount_mrp": "270",
-   "image": "src/assets/images/images.jpg",
+   "image": "./assets/images/images.jpg",
    "offer_text" : "15% Off",
    "count" : 0
   },
@@ -71,7 +71,7 @@
     "quantity" : "1L",
    "mrp": "500",
    "discount_mrp": "425",
-   "image": "src/assets/images/ketchup.jpg",
+   "image": "./assets/images/ketchup.jpg",
    "offer_text" : "15% Off",
    "count" : 0
   },
@@ -82,7 +82,7 @@
     "quantity" : "1kg",
    "mrp": "400",
    "discount_mrp": "340",
-   "image": "src/assets/images/milkpowder.jpg",
+   "image": "./assets/images/milkpowder.jpg",
    "offer_text" : "15% Off",
    "count" : 0
   },
@@ -93,7 +93,7 @@
     "quantity" : "1L",
    "mrp": "100",
    "discount_mrp": "95",
-   "image":"src/assets/images/oil.jpg",
+   "image":"./assets/images/oil.jpg",
    "offer_text" : "5% Off",
    "count" : 0
   },
@@ -104,7 +104,7 @@
     "quantity" : "500g",
    "mrp": "600",
    "discount_mrp": "540",
-   "image": "src/assets/images/nescafe.jpg",
+   "image": "./assets/images/nescafe.jpg",
    "offer_text" : "10% Off",
    "count" : 0
   }]
